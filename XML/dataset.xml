@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>titolo</titolo>
+    <abstract>@abstract</abstract>
+    <dataPubbicazioneDataset>2014-07-08</dataPubbicazioneDataset>
+    <entePubblicatore>ente</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2014-07-08</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2901</annoRiferimento>
+    <urlFile>http://nomefile.xml</urlFile>
+    <licenza>licenza</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>cig</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>scccrl82e24h501x</codiceFiscaleProp>
+        <denominazione>denominazione proponente</denominazione>
+      </strutturaProponente>
+      <oggetto>Test lotto</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <identificativoFiscaleEstero>123sonoestero</identificativoFiscaleEstero>
+            <ragioneSociale>azienda straniera</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <identificativoFiscaleEstero>123sonoestero 2</identificativoFiscaleEstero>
+            <ragioneSociale>azienda straniera 2</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+        </raggruppamento>
+        <partecipante>
+          <codiceFiscale>scccrl82e24h501x</codiceFiscale>
+          <ragioneSociale>azienda</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <raggruppamento>
+          <membro>
+            <identificativoFiscaleEstero>123sonoestero</identificativoFiscaleEstero>
+            <ragioneSociale>azienda straniera</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <identificativoFiscaleEstero>123sonoestero 2</identificativoFiscaleEstero>
+            <ragioneSociale>azienda straniera 2</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+        </raggruppamento>
+        <aggiudicatario>
+          <codiceFiscale>scccrl82e24h501x</codiceFiscale>
+          <ragioneSociale>azienda</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10.32</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>10.32</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

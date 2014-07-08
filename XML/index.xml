@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:legge190="legge190_1_0">
+  <metadata>
+    <dataPubblicazioneIndice>2014-07-08</dataPubblicazioneIndice>
+    <dataUltimoAggiornamentoIndice>2014-07-08</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2012</annoRiferimento>
+  </metadata>
+  <indice>
+    <dataset>
+      <linkDataset>/XML/dataset.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-07-08</dataUltimoAggiornamento>
+    </dataset>
+    <dataset>
+      <linkDataset>/XML/dataset.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-07-08</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>
